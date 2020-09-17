@@ -8,7 +8,7 @@ This is a program called "ensg2hugo.py" that takes a comma-delimited file as an 
    type: `gunzip Homo_sapiens.GRCh37.75.gtf.gz`
 2. To get `expres.anal.csv`:\
    type: `wget https://github.com/davcraig75/unit/expres.anal.csv`
-3. Make sure that these two files are in the same directory
+3. Make sure that these two files are in the same directory.
 
 ## Usage
 1. To install this program:\
